@@ -15,3 +15,7 @@ A bot avatar with a working state that says "busy" through light rather than thr
 ## Credits
 
 The working-state grid is adapted from [gradient-spin](https://github.com/BIAsia/gradient-spin) (MIT).
+
+## License
+
+[MIT](LICENSE). The bundled demo also includes third-party libraries such as React, which keep their own licenses.

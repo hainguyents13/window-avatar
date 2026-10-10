@@ -4,6 +4,10 @@ A bot avatar with a working state that says "busy" through light rather than thr
 
 **Live demo:** https://window-avatar.vercel.app
 
+![Idle and working](media/hero.gif)
+
+![A roster where two bots are working](media/roster.gif)
+
 - A face at a window: a fixed dark disc, and a coloured face offset so only a crescent shows. The colour is the only thing that tells two bots apart.
 - **Idle:** completely still.
 - **Working:** the face stays put, the window behind it lights up with a grid swept by a wavefront in the bot's colour, and the eyes search as a level pair. The name and status line pick up a matching shimmer.
